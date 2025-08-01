@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a CS Student.<br>⚡ I am aiming to be a Machine Learning Engineer.<br>🌱 I’m currently learning Math related to Machine learning.<br><br> 
+🔭 I’m currently a CSE Student.<br>⚡ I am aiming to be a Machine Learning Engineer.<br>🌱 I’m currently learning Math related to Machine learning.<br><br> 
 
 
 # 💻 Tech Stack:
@@ -9,8 +9,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=spine-uwu&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=spine-uwu&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=spine-uwu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=spine-uwu&limit=5&theme=dark&combine_all_yearly_contributions=true)
