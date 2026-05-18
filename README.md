@@ -57,7 +57,7 @@ A full-stack hospital web application with appointment booking, department pages
 
 ## 📫 Get In Touch
 
-- 💼 [LinkedIn]((https://www.linkedin.com/in/atif-iqbal-spine/)) <!-- Replace with your LinkedIn URL -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/atif-iqbal-spine/) <!-- Replace with your LinkedIn URL -->
 - 📧 [Email](mailto:atif.iqbal2002@gmail.com) <!-- Replace with your email -->
 
 ---
