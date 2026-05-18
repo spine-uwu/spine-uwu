@@ -1,19 +1,65 @@
-# 💫 About Me:
-🔭 I’m currently a CSE Student.<br>⚡ I am aiming to be a Machine Learning Engineer.<br>🌱 I’m currently learning Math related to Machine learning.<br><br> 
+# Hi there, I'm Atif Iqbal 👋
 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=spine-uwu&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=spine-uwu&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spine-uwu&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=spine-uwu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I'm a final semester Computer Science & Engineering student with a passion for **Machine Learning** and **Computer Vision**. I love building things that can see, learn, and make sense of the world through data.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=spine-uwu&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+- 🎓 Final semester **BSc in Computer Science & Engineering**
+- 🔍 Actively looking for roles in **Machine Learning / AI Engineering**
+- 🛰️ Interested in **Computer Vision**, **Deep Learning**, and **Image Processing**
+- 🌱 Always learning — currently exploring [NLP, RAG Pipelines, Agentic AI, Workflow]
+- 📍 Based in Bangladesh
+
+---
+
+## 🛠️ Tech Stack
+
+**Machine Learning & AI**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+**Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛰️ [Satellite Image Classification](https://github.com/spine-uwu/Satellite_Image_Classification)
+Classified satellite images using **ResNet50** with various image preprocessing techniques (Gaussian, Log Transform, Sobel, Negative). Achieved up to **95.10% accuracy** on test data. Includes a full image processing report.
+> `Python` `TensorFlow` `ResNet50` `Jupyter Notebook` `Computer Vision`
+
+### 🏥 [L'Hospital — Hospital Management System](https://github.com/spine-uwu/final_L-Hospital)
+A full-stack hospital web application with appointment booking, department pages, doctor listings, and an admin dashboard. Includes a complete SRS document and a live demo.
+> `Node.js` `HTML` `SCSS` `PHP` `SQLite`
+> 🎥 [Watch Demo](https://drive.google.com/file/d/1gtNv4vLAJ9o6oOdLZeK8SYthcHCJ57p8/view?usp=sharing)
+
+---
+
+## 📊 GitHub Stats
+
+![Atif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spine-uwu&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spine-uwu&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Get In Touch
+
+- 💼 [LinkedIn]((https://www.linkedin.com/in/atif-iqbal-spine/)) <!-- Replace with your LinkedIn URL -->
+- 📧 [Email](mailto:atif.iqbal2002@gmail.com) <!-- Replace with your email -->
+
+---
+
+*Open to ML/AI internships and full-time opportunities. Let's build something intelligent together!* 🤝
