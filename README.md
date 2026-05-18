@@ -46,12 +46,6 @@ A full-stack hospital web application with appointment booking, department pages
 > `Node.js` `HTML` `SCSS` `PHP` `SQLite`
 > 🎥 [Watch Demo](https://drive.google.com/file/d/1gtNv4vLAJ9o6oOdLZeK8SYthcHCJ57p8/view?usp=sharing)
 
----
-
-## 📊 GitHub Stats
-
-![Atif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=spine-uwu&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=spine-uwu&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
